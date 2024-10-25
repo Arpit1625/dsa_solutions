@@ -2,7 +2,7 @@ public class SelectionSort {
     public static void main(String[] args) {
         Sorting sr = new Sorting();
         int arr[] = {4, 1, 3, 9, 7};
-        int N = 5;
+        int N = arr.length;
         sr.selectionSort(arr, N);
         for(int i=0;  i<arr.length; i++){
             System.out.print(arr[i]+" ");
