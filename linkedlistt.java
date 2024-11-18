@@ -17,7 +17,18 @@ class  LinkedList {
         cur.next = new Node(data);
     }
   }
-
+  public void insertatEnd(int x){
+    if(head == null){
+      head= new Node (x);
+      display();
+  }
+  Node a = head;
+  while (a.next != null){
+      a = a.next;
+  }
+  a.next = new Node(x);
+    display();
+}
   public void display(){
     if(head == null){
         System.out.println("Linked list is empty");
@@ -83,5 +94,6 @@ public class linkedlistt {
         list.display();
         System.out.println();
         list.reverse();
+        list.insertatEnd(4);
     }
 }
