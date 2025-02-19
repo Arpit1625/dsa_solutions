@@ -56,9 +56,8 @@ class  LinkedList {
     display();
   }
 
-  
-
   public int size(){
+  public int size(){ // finding length of LInkedlist
     Node cur = head ;
     int size = 0 ;
     while (cur != null) {
@@ -69,7 +68,7 @@ class  LinkedList {
   }
 }
 
- class Node {
+ class Node { 
     int data ;
     Node next;
     Node(int data , Node node){
