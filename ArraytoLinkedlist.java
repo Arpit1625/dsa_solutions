@@ -3,10 +3,21 @@ public class ArraytoLinkedlist {
         int [] arr = {1, 2, 3, 4, 5};
         ArrtoLL al = new ArrtoLL();
         Node b = al.constructLL(arr);
-        while(b != null){
-            System.out.print(b.data + "->");
-            b= b.next;
+        ArraytoLinkedlist.display(b);
+        Node c = al.insertAtEnd(b,10);
+        ArraytoLinkedlist.display(c);
+    }
+    static void display(Node head){
+        if(head == null){
+            System.out.println("Linked list is empty");
+            return ;
         }
+        Node cur = head ;
+        while(cur != null){
+            System.out.print(cur.data + "->");
+            cur = cur.next ;
+        }
+        System.out.println();
     }
 }
 class Node{
@@ -32,4 +43,16 @@ class ArrtoLL{
         }
         return head;
     }
+    Node insertAtEnd(Node head, int x) {
+        if(head == null){
+            head = new Node (x);
+            return head;
+        }
+        Node a = head;
+        while (a.next != null){
+            a = a.next;
+        }
+        a.next = new Node(x);
+        return head;
+     }
 }
