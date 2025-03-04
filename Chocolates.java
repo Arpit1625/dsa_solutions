@@ -20,7 +20,6 @@ public class Chocolates {
             }
             result = Math.min(result, totalCost);
         }
-        
         return result;
     }
 }
