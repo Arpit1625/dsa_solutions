@@ -24,7 +24,7 @@ public class MinJump{
         int jumps = 0;
         int currentEnd = 0;
         int farthest = 0;
-
+        
         for (int i = 0; i < n - 1; i++) {
             farthest = Math.max(farthest, i + arr[i]);
             if (i == currentEnd) {
