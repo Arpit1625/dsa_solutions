@@ -20,9 +20,8 @@ class Solution {
         return ans[0];
     }
     public int diameter(TreeNode root , int ans[]){
-        if(root == null){
-            return 0;
-        }
+        if(root == null) return 0;
+
         int lh = diameter(root.left , ans);
         int rh = diameter(root.right , ans);
         ans[0] = Math.max(ans[0] , lh + rh);
