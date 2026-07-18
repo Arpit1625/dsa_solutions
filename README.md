@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Arpit1625/dsa_solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Arpit1625/dsa_solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpit1625/dsa_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Arpit1625/dsa_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Arpit1625/dsa_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Arpit1625/dsa_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arpit1625/dsa_solutions/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpit1625/dsa_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Arpit1625/dsa_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Arpit1625/dsa_solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Math
