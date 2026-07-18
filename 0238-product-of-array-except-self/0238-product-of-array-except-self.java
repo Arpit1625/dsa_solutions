@@ -18,12 +18,12 @@ class Solution {
          for(int i= nums.length-1; i>=0; i--){
             arr[i]=arr1[i]*arr2[i];
          }
-        //   for(int i=0; i< nums.length; i++){
-        //     System.out.print(arr1[i]);
-        //   }
-        //     for(int i=0; i< nums.length; i++){
-        //     System.out.print(" "+arr2[i]);
-        //   }
+          for(int i=0; i< nums.length; i++){
+            System.out.print(arr1[i] + " ");
+          }
+            for(int i=0; i< nums.length; i++){
+            System.out.print("arr[2] "+arr2[i] + " ");
+          }
          return arr;
     }
 }
