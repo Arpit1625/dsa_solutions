@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Arpit1625/dsa_solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Arpit1625/dsa_solutions/tree/master/0053-maximum-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Arpit1625/dsa_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Arpit1625/dsa_solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Arpit1625/dsa_solutions/tree/master/0001-two-sum) |
 | [0133-clone-graph](https://github.com/Arpit1625/dsa_solutions/tree/master/0133-clone-graph) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Arpit1625/dsa_solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
