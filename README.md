@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/Arpit1625/dsa_solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Arpit1625/dsa_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Arpit1625/dsa_solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Arpit1625/dsa_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Arpit1625/dsa_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Arpit1625/dsa_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Arpit1625/dsa_solutions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Arpit1625/dsa_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Number Theory
 |  |
 | ------- |
