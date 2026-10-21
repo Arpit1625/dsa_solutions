@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arpit1625/dsa_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Arpit1625/dsa_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Arpit1625/dsa_solutions/tree/master/0238-product-of-array-except-self) |
+| [0455-assign-cookies](https://github.com/Arpit1625/dsa_solutions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Arpit1625/dsa_solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arpit1625/dsa_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Arpit1625/dsa_solutions/tree/master/0835-image-overlap) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Arpit1625/dsa_solutions/tree/master/0015-3sum) |
+| [0455-assign-cookies](https://github.com/Arpit1625/dsa_solutions/tree/master/0455-assign-cookies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Arpit1625/dsa_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Arpit1625/dsa_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Arpit1625/dsa_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Arpit1625/dsa_solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Arpit1625/dsa_solutions/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/Arpit1625/dsa_solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Arpit1625/dsa_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Arpit1625/dsa_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Arpit1625/dsa_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Arpit1625/dsa_solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Arpit1625/dsa_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arpit1625/dsa_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Arpit1625/dsa_solutions/tree/master/1386-cinema-seat-allocation) |
@@ -482,4 +486,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Arpit1625/dsa_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Arpit1625/dsa_solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Arpit1625/dsa_solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
