@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Arpit1625/dsa_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Arpit1625/dsa_solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Arpit1625/dsa_solutions/tree/master/0877-stone-game) |
+| [0994-rotting-oranges](https://github.com/Arpit1625/dsa_solutions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Arpit1625/dsa_solutions/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/Arpit1625/dsa_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Arpit1625/dsa_solutions/tree/master/1406-stone-game-iii) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Arpit1625/dsa_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/Arpit1625/dsa_solutions/tree/master/0133-clone-graph) |
 | [0301-remove-invalid-parentheses](https://github.com/Arpit1625/dsa_solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0994-rotting-oranges](https://github.com/Arpit1625/dsa_solutions/tree/master/0994-rotting-oranges) |
 | [3310-remove-methods-from-project](https://github.com/Arpit1625/dsa_solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Arpit1625/dsa_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Arpit1625/dsa_solutions/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/Arpit1625/dsa_solutions/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Arpit1625/dsa_solutions/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Arpit1625/dsa_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
