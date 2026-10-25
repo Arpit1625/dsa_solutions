@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Arpit1625/dsa_solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Arpit1625/dsa_solutions/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Arpit1625/dsa_solutions/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Arpit1625/dsa_solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Arpit1625/dsa_solutions/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/Arpit1625/dsa_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Arpit1625/dsa_solutions/tree/master/1406-stone-game-iii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Arpit1625/dsa_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Arpit1625/dsa_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Arpit1625/dsa_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/Arpit1625/dsa_solutions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Arpit1625/dsa_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Arpit1625/dsa_solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Arpit1625/dsa_solutions/tree/master/0133-clone-graph) |
 | [0301-remove-invalid-parentheses](https://github.com/Arpit1625/dsa_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0994-rotting-oranges](https://github.com/Arpit1625/dsa_solutions/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Arpit1625/dsa_solutions/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Arpit1625/dsa_solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Arpit1625/dsa_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0835-image-overlap](https://github.com/Arpit1625/dsa_solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Arpit1625/dsa_solutions/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Arpit1625/dsa_solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Arpit1625/dsa_solutions/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Arpit1625/dsa_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## String
@@ -503,4 +507,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Arpit1625/dsa_solutions/tree/master/0455-assign-cookies) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Arpit1625/dsa_solutions/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
